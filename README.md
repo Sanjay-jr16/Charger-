@@ -1,1 +1,2 @@
 # Charger-
+This project presents a robust 12V DC charger circuit developed in KiCad, optimized for performance and reliability. Geared toward engineering professionals and electronics enthusiasts, it features regulated output voltage, protective circuitry, and detailed PCB design files including schematic, layout, and Gerber outputs. With attention to practical assembly and thermal stability, the design supports custom modifications and prototyping, making it a solid foundation for embedded or power electronics applications
